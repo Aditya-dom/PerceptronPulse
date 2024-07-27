@@ -1,9 +1,12 @@
 # PerceptronPulse
-### Building a multilayer perceptron from scratch
+
+This is a python program that implements the Multilayer Perceptron from scratch. It was done as a project to achieve a deeper understanding of the functioning of the model. You can read more about it in my blog post [here]().
+
+## Building a multilayer perceptron from scratch
 
 The mathematics and computation that drive neural networks are frequently seen as erudite and impenetrable. A clearly illustrated example of building from scratch a neural network for handwriting recognition is presented in `MLP.ipynb`. This tutorial provides a step-by-step overview of the mathematics and code used in many modern machine learning algorithms.
 
-### Installation 
+## Installation 
 
 To view this notebook in your browser simply click the `MLP.ipynb` file above.
 
