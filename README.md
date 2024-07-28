@@ -1,6 +1,6 @@
 # PerceptronPulse
 
-This is a python program that implements the Multilayer Perceptron from scratch. It was done as a project to achieve a deeper understanding of the functioning of the model. You can read more about it in my blog post [here]().
+This is a python program that implements the Multilayer Perceptron from scratch. It was done as a project to achieve a deeper understanding of the functioning of the model. You can read more about it in my blog post [here](https://arawn.live/posts/MultilayerPerceptron-intro/).
 
 ## Building a multilayer perceptron from scratch
 
